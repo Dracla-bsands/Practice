@@ -5,3 +5,4 @@ content: Enter your content here
 showEditor: true
 editors:
   - course1/unit1/lesson1/lessonpart1/hello.txt
+  - course1/unit1/lesson1/lessonpart1/tasks.txt

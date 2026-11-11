@@ -9,12 +9,22 @@ contacts:
     homePageUrl: https://github.com/Dracla-bsands
 files:
   - path: course1/unit1/lesson1/lessonpart1/hello.txt
-    content: "Stage 1: Starting my project on vscode.edu.\r
+    content: "\r
+
+      \r
+
+      Stage 1: Starting my project on vscode.edu.\r
 
       File: hello.txt \r
 
       yes bro\r
 
       Stage 2: Updated the first file with new notes."
+  - path: course1/unit1/lesson1/lessonpart1/tasks.txt
+    content: "Task List:\r
+
+      1. Connect GitHub account (Done)\r
+
+      2. Learn how to save changes (Done)"
 units:
   - unit1/index.yml
