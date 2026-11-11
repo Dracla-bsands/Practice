@@ -11,6 +11,6 @@ files:
   - path: course1/unit1/lesson1/lessonpart1/hello.txt
     content: "Stage 1: Starting my project on vscode.edu.\r
 
-      File: hello.txt\r\n"
+      File: hello.txt \r\n"
 units:
   - unit1/index.yml
