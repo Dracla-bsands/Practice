@@ -7,12 +7,10 @@ contacts:
   - displayName: Dracla-bsands
     pictureUrl: https://avatars.githubusercontent.com/u/355306780?v=4
     homePageUrl: https://github.com/Dracla-bsands
+files:
+  - path: course1/unit1/lesson1/lessonpart1/hello.txt
+    content: "Stage 1: Starting my project on vscode.edu.\r
+
+      File: hello.txt\r\n"
 units:
-  - id: unit1
-    title: Unit 1
-    lessons:
-      - id: lesson1
-        title: Lesson 1
-        lessonParts:
-          - id: lessonpart1
-            title: Page 1
+  - unit1/index.yml
